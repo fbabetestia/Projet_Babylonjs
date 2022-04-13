@@ -1,5 +1,5 @@
 # Projet_Babylonjs
-Jeu vidéo 3D à partir de babylonjs
+Jeu vidéo 3D à partir de babylonjs par Florent BABET
 
 Le jeu vidéo reprends les mecaniques vues en cours avec quelque ajout.
 Le jeu corresponds a une ambiance nuit dans une foret, il y a également un effet de brouillard ce qui donne une impression de flou mais c'est voulu.
